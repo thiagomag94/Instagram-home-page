@@ -1,6 +1,6 @@
 # Recriando a home page do Instagram
 
-##Português:
+## Português:
 Projeto proposto pelo bootcamp HTML web developer da Digital Innovation One utilizando HTML e CSS. 
 Utilizei também o framework front-end Bootstrap 4 para dar mais celeridade na conclusão da atividade.
 
